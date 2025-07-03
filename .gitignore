@@ -1,0 +1,7 @@
+venv/ 
+venv_tf/ 
+__pycache__/ 
+*.pyd 
+*.dll 
+*.h5 
+*.weights.h5 
